@@ -1,0 +1,7 @@
+langchain-core
+langchain-groq
+langchain-text-splitters
+youtube-transcript-api
+rank-bm25
+python-dotenv
+gradio
